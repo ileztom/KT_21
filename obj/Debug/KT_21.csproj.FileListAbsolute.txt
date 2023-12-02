@@ -1,0 +1,11 @@
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\bin\Debug\KT_21.exe.config
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\bin\Debug\KT_21.exe
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\bin\Debug\KT_21.pdb
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\obj\Debug\KT_21.csproj.AssemblyReference.cache
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\obj\Debug\KT_21.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\obj\Debug\KT_21.Form1.resources
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\obj\Debug\KT_21.Properties.Resources.resources
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\obj\Debug\KT_21.csproj.GenerateResource.cache
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\obj\Debug\KT_21.csproj.CoreCompileInputs.cache
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\obj\Debug\KT_21.exe
+C:\Users\ilezt\OneDrive\Рабочий стол\program\KT_21\obj\Debug\KT_21.pdb
